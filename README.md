@@ -1,3 +1,3 @@
 # album
 
-A new Flutter project.
+Album photos display
